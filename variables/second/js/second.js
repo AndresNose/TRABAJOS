@@ -1,8 +1,8 @@
 /*
-	name exercise: weighted of three grades
-	description: calculate the weighting of three grades
-	author: Diego Andrés Gutiérrez
-	date: 15th march 2025
+	Name exercise: weighted of three grades
+	Description: calculate the weighting of three grades
+	Author: Diego Andrés Gutiérrez
+	Date: 15th march 2025
 */
 
 let gradeOne=4.5;

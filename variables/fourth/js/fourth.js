@@ -1,8 +1,8 @@
 /*
-	name exercise: fourth
-	description: applied force to an object
-	author: Diego Andrés Gutiérrez
-	date: 15th march 2025
+	Name exercise: fourth
+	Description: applied force to an object
+	Author: Diego Andrés Gutiérrez
+	Date: 15th march 2025
 */
 
 let bulk=8;

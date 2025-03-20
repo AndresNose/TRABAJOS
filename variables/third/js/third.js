@@ -1,8 +1,8 @@
 /*
-	name exercise: third
-	description: pay for a person with discounts
-	author: Diego Andrés Gutiérrez
-	date: 15th march 2025
+	Name exercise: third
+	Description: pay for a person with discounts
+	Author: Diego Andrés Gutiérrez
+	Date: 15th march 2025
 */
 
 let daysWorked;

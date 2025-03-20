@@ -1,8 +1,8 @@
 /*
-	name exercise: first
-	description: Average of three grades
-	author: Diego Andrés Gutiérrez
-	date: 15th march 2025
+	Name exercise: first
+	Description: average of three grades
+	Author: Diego Andrés Gutiérrez
+	Date: 15th march 2025
 */
 
 let gradeOne=5;

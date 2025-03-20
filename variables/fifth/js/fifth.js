@@ -5,10 +5,10 @@
 	date: 15th march 2025
 */
 
-let bulk=6;
-let acceleration=7;
-let appliedForce;
+let inertia;
+let force=20;
+let acceleration=10;
 
-appliedForce=bulk*acceleration;
+inertia=force/acceleration;
 
-console.log("The applied force is: " + appliedForce);
+console.log("The inertia is: " + inertia);
